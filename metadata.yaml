@@ -1,15 +1,21 @@
 _repo: The-Haunted-Ship_50794
+_version: 0.1.0
 contributor:
   illustrator:
     agent_name: Taylor, Ethel
     gutenberg_agent_id: '46087'
     url: http://www.gutenberg.org/2009/agents/46087
+covers:
+- cover_type: archival
+  image_path: 50794-h/images/cover.jpg
 creator:
   author:
     agent_name: Tucker, Kate
     gutenberg_agent_id: '46086'
     url: http://www.gutenberg.org/2009/agents/46086
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50794#The-Haunted-Ship
 gutenberg_issued: '2015-12-30'
 gutenberg_type: Text
 identifiers:
